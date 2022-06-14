@@ -287,7 +287,7 @@ Jest és un corredor de proves automatitzat per a JavaScript.
 Per executar les vostres proves, obriu el vostre terminal al directori arrel del laboratori, executeu `npm install` per instal·lar les vostres dependències i `npm run test:watch` per executar les proves i generar el fitxer `lab-solution.html`.
 
 ```shell
-$ cd lab-javascript-functions-and-arrays-cat
+$ cd lab-js-functions-and-arrays-cat
 $ npm install
 $ npm run test:watch
 ```
